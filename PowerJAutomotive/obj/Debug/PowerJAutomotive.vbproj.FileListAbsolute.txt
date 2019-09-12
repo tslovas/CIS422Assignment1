@@ -1,0 +1,15 @@
+C:\Users\monom\Desktop\School\CIS 422\PowerJAutomotive\PowerJAutomotive\bin\Debug\PowerJAutomotive.exe.config
+C:\Users\monom\Desktop\School\CIS 422\PowerJAutomotive\PowerJAutomotive\bin\Debug\PowerJAutomotive.exe
+C:\Users\monom\Desktop\School\CIS 422\PowerJAutomotive\PowerJAutomotive\bin\Debug\PowerJAutomotive.pdb
+C:\Users\monom\Desktop\School\CIS 422\PowerJAutomotive\PowerJAutomotive\bin\Debug\PowerJAutomotive.xml
+C:\Users\monom\Desktop\School\CIS 422\PowerJAutomotive\PowerJAutomotive\obj\Debug\PowerJAutomotive.vbprojAssemblyReference.cache
+C:\Users\monom\Desktop\School\CIS 422\PowerJAutomotive\PowerJAutomotive\obj\Debug\PowerJAutomotive.frmMDIParent.resources
+C:\Users\monom\Desktop\School\CIS 422\PowerJAutomotive\PowerJAutomotive\obj\Debug\PowerJAutomotive.Resources.resources
+C:\Users\monom\Desktop\School\CIS 422\PowerJAutomotive\PowerJAutomotive\obj\Debug\PowerJAutomotive.vbproj.GenerateResource.cache
+C:\Users\monom\Desktop\School\CIS 422\PowerJAutomotive\PowerJAutomotive\obj\Debug\PowerJAutomotive.vbproj.CoreCompileInputs.cache
+C:\Users\monom\Desktop\School\CIS 422\PowerJAutomotive\PowerJAutomotive\obj\Debug\PowerJAutomotive.exe
+C:\Users\monom\Desktop\School\CIS 422\PowerJAutomotive\PowerJAutomotive\obj\Debug\PowerJAutomotive.xml
+C:\Users\monom\Desktop\School\CIS 422\PowerJAutomotive\PowerJAutomotive\obj\Debug\PowerJAutomotive.pdb
+C:\Users\monom\Desktop\School\CIS 422\PowerJAutomotive\PowerJAutomotive\obj\Debug\PowerJAutomotive.frmMDIChild.resources
+C:\Users\monom\Desktop\School\CIS 422\PowerJAutomotive\PowerJAutomotive\obj\Debug\PowerJAutomotive.frmAbout.resources
+C:\Users\monom\Desktop\School\CIS 422\PowerJAutomotive\PowerJAutomotive\obj\Debug\PowerJAutomotive.frmInvoice.resources
